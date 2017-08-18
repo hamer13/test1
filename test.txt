@@ -11,3 +11,5 @@ Email test.
 Another test.
 
 Github status test.
+
+Timestamper test.
